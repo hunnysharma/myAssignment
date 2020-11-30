@@ -53,9 +53,9 @@ const Common = () => {
                           </select>
                         </div>
                         <div className='row my-5' >
-                          <div className='col-lg-8 order-1 justify-content-center' >
+                          <div className='col-lg-7 order-1 justify-content-center' >
                           </div>
-                          <div className='col-lg-4 order-1 justify-content-center' >
+                          <div className='col-lg-5 order-1 justify-content-center' >
 
                          <NavLink to="./Campaign"><button type="button" class="btn2 info1 ">Next➡</button></NavLink> 
                           </div>
