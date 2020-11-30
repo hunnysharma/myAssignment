@@ -16,7 +16,7 @@ const Navbar2 = () => {
                         <nav className="navbar navbar-expand-lg navbar-light">
                             <NavLink to="/"><img height="35px"  src="https://www.brandcrowd.com/gallery/brands/pictures/picture1495010754862.png" alt='myimg'/>
                         </NavLink>
-                            <NavLink className="navbar-brand" to="/"><h4 style={styleSpan}>seeda</h4></NavLink>
+                            <NavLink className="navbar-brand mynav" to="/"><h4 style={styleSpan}>seeda</h4></NavLink>
                             
                             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span className="navbar-toggler-icon"></span>
