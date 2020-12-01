@@ -27,10 +27,10 @@ const Budgets = () => {
                                             <div className="col-5">
                                                 <input type="text" className="form-control" placeholder="CARD NUMBER" />
                                             </div>
-                                            <div class="col-3 ">
+                                            <div className="col-3 ">
                                                 <input type='date' className="form-control" placeholder="EXPIRY DATE" />
                                             </div>
-                                            <div class="col-2">
+                                            <div className="col-2">
                                                 <input type="text" className="form-control" placeholder="CVV" />
                                             </div>
                                         </div>
