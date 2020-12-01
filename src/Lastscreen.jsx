@@ -21,7 +21,7 @@ const Last = () => {
                                     Fill in the form below, You will be charged at the end of the day
                                     Fill in the form below, You will be charged at the end of the day
                                     Fill in the form below, You will be charged at the end of the day</h5><br/><br/><br/><br/>
-                                    <NavLink to="./Dashboard"><button type="button" class="btn2 info1 ">Go To Dashboard &nbsp;&nbsp;➡</button></NavLink>
+                                    <NavLink to="./Dashboard"><button type="button" className="btn2 info1 ">Go To Dashboard &nbsp;&nbsp;➡</button></NavLink>
                                 </div>
                                 <div className='col-lg-2 order-1 justify-content-center' ></div>
                                 <div className='col-lg-4 order-1 justify-content-center' >
@@ -53,10 +53,6 @@ const Last = () => {
                                 </div>
                             </div>
                             
-
-
-
-
                         </div>
                     </div>
                 </div>
