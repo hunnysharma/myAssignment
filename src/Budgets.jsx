@@ -9,13 +9,14 @@ const Budgets = () => {
     return (
         <>
             <Navbar></Navbar>
+            
+                    <Instance
+                        no='3'
+                    />
 
             <section id='header' className='d-flex'>
 
                 <div className='container-fluid' >
-                    <Instance
-                        no='3'
-                    />
                     <div className='row' >
                         <div className='col-10 mx-auto'>
                             <div className='row' >
