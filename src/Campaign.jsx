@@ -23,7 +23,7 @@ const Campaign = () => {
                                             <input type="text" className="form-control" id="exampleInputEmail1" placeholder="CAMPAIGN NAME" />
 
                                         </div>
-                                        <div class="form-group my-3">
+                                        <div className="form-group my-3">
 
                                             <input type="text" className="form-control" id="exampleInputPassword1" placeholder="CAMPAIGN START DATE" />
                                         </div>
