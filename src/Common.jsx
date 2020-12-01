@@ -57,7 +57,7 @@ const Common = () => {
                           </div>
                           <div className='col-lg-5 order-1 justify-content-center' >
 
-                         <NavLink to="./Campaign"><button type="button" class="btn2 info1 ">Next➡</button></NavLink> 
+                         <NavLink to="./Campaign"><button type="button" className="btn2 info1 ">Next➡</button></NavLink> 
                           </div>
                         </div>
 
