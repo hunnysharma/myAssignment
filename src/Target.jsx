@@ -38,7 +38,7 @@ const Targets = () => {
                                 <div className='col-md-6 order-2 order-lg-1  justify-content-center flex-column' >
                                     <h1>Lets talk about your campaign</h1>
                                     
-                                    <h5>Daily Budget</h5>
+                                    <h5>DAILY BUDGET</h5>
                                     <Application
                                         handleChange={handleChange}
                                      />
